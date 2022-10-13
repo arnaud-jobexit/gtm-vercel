@@ -17,7 +17,7 @@ export default function Home() {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
-        <Link href="/about"><a>Go to About Page</a></Link>
+      <Link href="/about"><a> ##### Go to About Page ####</a></Link>
 
         <p className={styles.description}>
           Get started by editing{' '}
